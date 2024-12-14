@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "so_long",
+			"path": "."
+		},
+		{
+			"name": "libft",
+			"path": "../libft"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
